@@ -8,6 +8,7 @@ I am a detail-oriented, organized and meticulous employee. Working at a fast pac
 Freelance Programmer | Self-employed
 Eastern Shore, MD - September 2002 - Current
 Skills and Proficiencies
+
     • Adobe Photoshop and Gimp
     • Microsoft Programs (Excel, Word, etc.)
     • Windows Environments
